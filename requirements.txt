@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pytz
+langchain
+langchain-community
+openai
+faiss-cpu
